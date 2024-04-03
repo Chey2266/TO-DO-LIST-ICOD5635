@@ -39,12 +39,14 @@ PERSISTANCE:
 
 The To-Do List application leverages local storage to persist user data across sessions. The saveData() function stores the current state of the task list in the browser's local storage using the setItem() method. Conversely, the showTask() function retrieves the saved task data from local storage using the getItem() method and updates the list accordingly. This ensures that users can access their previously added tasks even after closing or refreshing the application.
 
-USAGE
+USAGE:
+
 Adding a Task: Users enter a task in the input field and click "Enter" to add it to the list.
 Marking a Task as Completed: Users click on a task to toggle its "completed" status.
 Removing a Task: Users click the "×" button on a task to remove it from the list.
 
 CONCLUSION:
+
 In conclusion, the To-Do List Web Development Internship task at CODTECH IT SOLUTIONS offers interns a valuable opportunity to apply their knowledge and skills in web development to create a practical and functional web-based application. Through the implementation of essential functionalities such as task management, user interface design, and data persistence, interns demonstrate their proficiency and competence in front-end web development technologies. This documentation highlights the key aspects of the task, including HTML structure, functionality implementation, event handling, and data management, showcasing the intern's ability to develop user-friendly and efficient web applications.
 
 OUTPUT:
